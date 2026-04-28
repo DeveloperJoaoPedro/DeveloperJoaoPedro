@@ -39,9 +39,9 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperJoaoPedro&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJoaoPedro&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -49,8 +49,9 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+ <a href="https://www.linkedin.com/in/joaopoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:joaopedroolialves08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/jaoolialves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ---
 
