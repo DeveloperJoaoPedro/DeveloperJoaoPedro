@@ -1,4 +1,4 @@
-# Olá, eu me chamo João Pedro 👋
+# Olá, eu me chamo João Pedro
 
 **Desenvolvedor Java em formação** | Buscando primeiro emprego ou estágio em TI
 
