@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome] 👋
+# Olá, eu me chamo João Pedro 👋
 
 **Desenvolvedor Java em formação** | Buscando primeiro emprego ou estágio em TI
 
@@ -27,11 +27,10 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ## 🚀 Projetos em destaque
 
-> ⚠️ Em construção — projetos chegando em breve!
+> ⚠️ Em construção projetos chegando em breve!
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [API de Tarefas](#) | CRUD completo com Spring Boot e MySQL | Java, Spring Boot, SQL |
 | [Em breve...](#) | — | — |
 
 ---
