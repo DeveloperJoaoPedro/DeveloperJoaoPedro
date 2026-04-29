@@ -56,5 +56,5 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 ---
 
 <div align="center">
-  <sub>Aberto a oportunidades de estágio e primeiro emprego em desenvolvimento Java.</sub>
+  <sub>Aberto a oportunidades de estágio e primeiro emprego em desenvolvimento.</sub>
 </div>
