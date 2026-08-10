@@ -6,7 +6,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -16,7 +16,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ---
 
-## 📌 Sobre mim
+## Sobre mim
 
 - 🎯 Foco atual: **Java back-end com Spring Boot**
 - 🌱 Estudando: APIs REST, JPA/Hibernate, boas práticas de código
@@ -25,7 +25,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 > ⚠️ Em construção projetos chegando em breve!
 
@@ -35,7 +35,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 ---
 
-## 📬 Contato
+## Contato
 
  <a href="https://www.linkedin.com/in/joaopoalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:joaopedroolialves08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
