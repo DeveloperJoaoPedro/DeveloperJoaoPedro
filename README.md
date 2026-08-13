@@ -39,7 +39,7 @@ Estou construindo minha base no desenvolvimento back-end com foco em **Java** e 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperJoaoPedro&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJoaoPedro&layout=compact&theme=default&hide_border=true)
 
